@@ -26,8 +26,8 @@ I'm Ankur Gupta, a machine learning scientist and engineer. I have a PhD in Chem
 - HTML/CSS, LaTeX, [typst](https://typst.app/)
 - R, Octave/MATLAB, C/C++, Java, Clojure, Perl
 
-## My GitHub stats:
+### My GitHub stats:
 [![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankur-gupta&show_icons=true&theme=light)](https://github.com/ankur-gupta)
 
-## Get in touch:
+### Get in touch:
 Feel free to reach out to me if you have any questions or would like to collaborate on a project. Thanks for stopping by!
